@@ -1,0 +1,30 @@
+--- WHERE PYTHON --- 
+C:\Users\Satish preetham\AppData\Local\Programs\Python\Python312\python.exe
+C:\Users\Satish preetham\AppData\Local\Microsoft\WindowsApps\python.exe
+--- WHERE PY --- 
+C:\Windows\py.exe
+--- WHERE NODE --- 
+D:\nodejs\node.exe
+--- WHERE NPM --- 
+D:\nodejs\npm
+D:\nodejs\npm.cmd
+--- WHERE UVICORN --- 
+C:\Users\Satish preetham\AppData\Local\Programs\Python\Python312\Scripts\uvicorn.exe
+--- DIR LOCALPROGRAMS PYTHON --- 
+ Volume in drive C is OS
+ Volume Serial Number is 749E-50E7
+
+ Directory of C:\Users\Satish preetham\AppData\Local\Programs\Python
+
+20-04-2024  21:12    <DIR>          .
+25-07-2026  11:52    <DIR>          ..
+18-03-2026  13:09    <DIR>          Python312
+               0 File(s)              0 bytes
+               3 Dir(s)  104,089,899,008 bytes free
+--- DIR C PROGRAMFILES NODEJS --- 
+ Volume in drive C is OS
+ Volume Serial Number is 749E-50E7
+
+ Directory of C:\Program Files
+
+File Not Found
