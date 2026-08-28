@@ -1094,4 +1094,4 @@ If you choose to open-source the project, add an appropriate `LICENSE` file to t
 
 ### **Don't just prepare for a job. Prepare intelligently.**
 
-**GitHub Repository:** [AI Career Copilot](YOUR_GITHUB_REPO_URL)
+**GitHub Repository:** [AI Career Copilot](https://github.com/Satishpreethamvangalapudi29/AI-Career-Copilot)
