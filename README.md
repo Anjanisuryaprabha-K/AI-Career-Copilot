@@ -13,7 +13,7 @@ It combines **AI-powered career assistance, resume analysis, ATS scoring, coding
 ## 🚀 Live Repository
 
 **GitHub Repository:**
-[View AI Career Copilot on GitHub](YOUR_GITHUB_REPO_URL)
+[View AI Career Copilot on GitHub](https://github.com/Satishpreethamvangalapudi29/AI-Career-Copilot)
 
 ---
 
